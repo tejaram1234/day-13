@@ -1,5 +1,4 @@
 #imageGallery {
-    margin-left: 500px;
     border-radius: 50px;
     width: 400px;
     height: 300px;
@@ -14,5 +13,4 @@ img {
 #timer {
     font-size: 60px;
     margin-top: 20px;
-    margin-left: 600px;
 }
